@@ -4,7 +4,9 @@ A Budget making app with a pretty ui.
 
 ## Getting Started
 ```
-*Fire up a browser.
+*Clone the repository
+*run npm install
+*go to localhost:3000
 ```
 
 ### Prerequisites
@@ -12,12 +14,13 @@ A Budget making app with a pretty ui.
 What things you need to install the software and how to install them
 
 ```
-*A browser
+*Node js
 ```
 
 ## Built With
 
 * Javascript
+*Node js
 
 ## Contributing
 
@@ -38,4 +41,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ![Screenshot](screenshot.png)
 ![Screenshot](sc_2.png)
-
